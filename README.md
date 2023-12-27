@@ -1,25 +1,27 @@
-# digibin
-This project involves the development of an Android mobile app that is part of an IoT system. The app's primary objective is to provide real-time information about a dustbin, including the fill-up percentage, temperature, and humidity levels. Additionally, the app notifies the user or driver when the dustbin reaches its capacity limit. The data is collected from sensors and updated live within the app.
+# Health360
+This project Created an IoT system using C/C++, Flutter, and ESP32, enabling real-time tracking of body temperature, heart rate, and ECG. Implemented a user-friendly mobile app for instant data visualization, showcasing my expertise in end-to-end project execution.
 
-There are 2 types of users of this app. 
-1. Driver
-2. Admin
 
-Here, a driver can only see the information about the dustbin but the admin can also see the driver list & dustbin list also.
-
-Please note that this project is not presented in its entirety here. If you have any specific questions or require further information about the project, please feel free to reach out to me on LinkedIn. The app has two types of users: drivers and admins. Drivers can view the dustbin information, while admins have access to the driver and dustbin lists in addition to the dustbin information.
-
+The project provides the opportunity for the doctors to monitor the health of the patients even outside the hospital or apart from the duty hours using IoT the health of the patients is monitored remotely. This project is cost effective and provides timely response to improve the patients‟ health it avoids the patients to have long stays in hospital it helps them to move freely and walk
+happily with the help of wireless sensors. This are the measurable benefits which avoids the patients from daily regular visits to hospitals which is extremely painful for chronically ill, elderly and bedridden patients in home. Hence in total by using the project we can solve many of the healthcare problems which the society is facing and improve the quality of better human life.
 
 # Language & Tools
-Java, Firebase
+Flutter, Firebase, Arduino
 
-# Database
-Firestore, Firebase Real-Time
+# Sensors
+![image](https://github.com/Tanbir-Ahmed-Momin/Health360/assets/57826422/7ea93786-1d06-4b6a-a482-939b9cae1585)
+![image](https://github.com/Tanbir-Ahmed-Momin/Health360/assets/57826422/8ee5f9d7-4f16-4b4f-b996-0ceae54c5441)
+![image](https://github.com/Tanbir-Ahmed-Momin/Health360/assets/57826422/db7baee5-d49c-4f13-9eca-cf686ade74cf)
+![image](https://github.com/Tanbir-Ahmed-Momin/Health360/assets/57826422/f4f48c80-d27b-4d2b-8842-dbf8b4622904)
 
-# Sample Output
-![photo_2022-09-29_22-22-12](https://user-images.githubusercontent.com/58313058/193416842-2b515595-5933-4aa1-b8cf-48fe28a22497.jpg)
-![photo_2022-09-29_22-22-01](https://user-images.githubusercontent.com/58313058/193416860-b02765aa-31fe-4170-a248-8af83554c79b.jpg)
-![photo_2022-09-29_22-22-09](https://user-images.githubusercontent.com/58313058/193416863-e9bb94d8-aed6-4882-b6f9-2b29a4ae99fb.jpg)
+
+
+# Circuit Diagram
+![image](https://github.com/Tanbir-Ahmed-Momin/Health360/assets/57826422/8e94776d-3885-4f32-a2bb-1c0230ee296c)
+
+# App UI
+![image](https://github.com/Tanbir-Ahmed-Momin/Health360/assets/57826422/6507e3ec-7d10-4d13-97ab-3d6d55f2268a)
+![image](https://github.com/Tanbir-Ahmed-Momin/Health360/assets/57826422/3b0a31c4-d5d2-4b1a-8ff4-590e4ed4e1c4)
 
 
 
